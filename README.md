@@ -1,6 +1,6 @@
-## 4.3小游戏工程目录说明
 Godot Engine https://godotengine.org/
 Godot 工具箱 https://get.godots.app/
+## 4.3小游戏工程目录说明
 ## 源码目录介绍
 ```
 ----godot-loader.js              //引擎加载器
